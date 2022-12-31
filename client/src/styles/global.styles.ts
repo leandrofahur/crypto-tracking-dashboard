@@ -12,8 +12,7 @@ export const GlobalStyles = createGlobalStyle`
         max-height: 100vh;
         width: 100%;
         height: 100%;
-        --webkit-font-smoothing: antialiased;
-        background-color: red;
+        --webkit-font-smoothing: antialiased;        
     }
 
     body,
